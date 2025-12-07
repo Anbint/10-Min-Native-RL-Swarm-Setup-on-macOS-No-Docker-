@@ -1,4 +1,4 @@
-# 10-Min-Native-RL-Swarm-on-macOS-No-Docker
+# 10-Min-Native-RL-Swarm-Setup-on-macOS-No-Docker
 
 > Run a Gensyn RL-Swarm node **natively on macOS** (no Docker), using only Python + a virtualenv + tmux.  
 > Tested on Apple Silicon (M1/M2/M3) and Intel Macs.
