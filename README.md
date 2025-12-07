@@ -326,6 +326,9 @@ Additionally, you can:
 - Check that your Mac isn’t completely overloaded:
 - Use Activity Monitor → CPU / Memory tabs
 
+<img width="663" height="108" alt="Screenshot 2025-12-06 at 19 46 41" src="https://github.com/user-attachments/assets/c2c71656-3c80-4ac8-8da2-97aa5beeea79" />
+<img width="785" height="111" alt="Screenshot 2025-12-06 at 19 46 56" src="https://github.com/user-attachments/assets/93d713c0-e098-42c2-b186-180dd38bd9cb" />
+
 If Participation and Rewards keep going up over time, your node is doing work.
 
 ⸻
